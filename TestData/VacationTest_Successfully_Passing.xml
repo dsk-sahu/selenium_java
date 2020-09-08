@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+    <param key="flyFromCode" value="SFO" />
+    <param key="flyFrom" value="San Francisco, CA, United States of America (SFO - San Francisco Intl.)"/>
+    <param key="flyToCode" value="LAX" />
+    <param key="flyTo" value="Los Angeles, CA"/>
+    <param key="departingDate" value="1"/>
+    <param key="departingTime" value="Morning"/>
+    <param key="returningDate" value="21"/>
+    <param key="returningTime" value="Evening"/>
+</Elements>

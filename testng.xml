@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="UiAutomation Reporting">
+    <test name="Testcases">
+        <classes>
+            <class name="com.uiautomaiton.web.VacationTest_Failing"/>
+            <class name="com.uiautomaiton.web.VacationTest_Successfully_Passing"/>
+        </classes>
+    </test>
+</suite>
