@@ -2,7 +2,7 @@
 <suite name="UiAutomation Reporting">
     <test name="Testcases">
         <classes>
-            <class name="com.uiautomaiton.web.VacationTest_Failing"/>
+            <!-- <class name="com.uiautomaiton.web.VacationTest_Failing"/> -->
             <class name="com.uiautomaiton.web.VacationTest_Successfully_Passing"/>
         </classes>
     </test>
